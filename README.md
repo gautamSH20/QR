@@ -1,5 +1,7 @@
-# projrcts
+# QR
 
-# first project is QR page
+# i be making first project on git
 
-where used responsive media at 375px to have a mobile view
+In this i have just created a page with a QR
+
+And also added meadia at width:375px to show it in Mobile view
