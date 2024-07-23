@@ -7,7 +7,7 @@ body {
   width: auto;
 }
 
-.qr-box {
+.main {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -19,7 +19,7 @@ body {
   align-items: center;
   text-align: center;
 }
-.qr-box > .img {
+.main > .img {
   height: 270px;
   width: 270px;
   margin: 14px 14px 0 14px;
